@@ -2,4 +2,4 @@
 source streamlit-env/bin/activate
 
 # Run hello_world.py
-streamlit run read-dataset.py --server.enableCORS false --server.enableXsrfProtection false
+streamlit run app-cache.py --server.enableCORS false --server.enableXsrfProtection false
